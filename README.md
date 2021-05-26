@@ -1,7 +1,8 @@
 # Guess-the-Number-Game
 
-Vanilla Javascript with DOM manipulation - Part of a course
+Coursework
 
+Vanilla Javascript with DOM manipulation
 
 Guess a random number from 1 to 20
 
